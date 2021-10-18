@@ -12,8 +12,6 @@
 * **Loja**
 * **Venda**
 * **Produto**
-* **ItemPedido**
-* **ProdutoEstoque**
 
 ---
 
