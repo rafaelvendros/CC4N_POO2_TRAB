@@ -27,7 +27,7 @@ Tendo em vista esta funcionalidade, a classe citada, hierarquicamente falando, p
 
 ### 2.	_**O — Open-Closed Principle:**_
 Este princípio menciona que as entidades ou objetos da classe devem estar abertos para sua extensão, porém devem permanecer fechados para a modificação, isto é, quando novas funcionalidades necessitam de serem implementadas no software em questão, nós não devemos alterar todo o seu código fonte original, mas sim estendê-lo. Essa solução é realizada através da separação da extensão por trás de uma interface e invertendo as suas dependências.
-Utilizamos este princípio em algumas de nossas classes, visto que elas apresentam uma abertura para serem estendidas, mas se encontram fechadas para a modificação, por exemplo podemos citar a classe “” que...
+Utilizamos este princípio em algumas de nossas classes, visto que elas apresentam uma abertura para serem estendidas, mas se encontram fechadas para a modificação, por exemplo podemos citar a classe “Loja” que tem seus atributos fechados para mudanças, porém tem métodos que o deixa ser adaptado...
 
 ### 3.	_**D — Dependency Inversion Principle**_
 Neste princípio nós vemos que ela consiste em depender de abstrações ao invés de implementações, ou seja, um módulo presente no alto nível não pode depender de módulos inferiores, ambos precisam ser dependentes da abstração. Quando alteramos isto na classe o primeiro fator a ser analisado é esta hierarquia, identificando assim, os nódulos de alto e baixo nível.
