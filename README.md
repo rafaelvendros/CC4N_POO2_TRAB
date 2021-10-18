@@ -2,10 +2,12 @@
 ### **University Computer Science Project in Object-Oriented Programming**
  - __Componentes:__ Gustavo Contarato Sant'anna, Leandro dos Santos de Abreu, Rafael Guimarães Vendros
 
+### VÍDEO = https://youtu.be/hICMwXAhe-8
+
 1. Diretório dos arquivos:
  - UML = /IMGS/UML.JPG
  - Banco de Dados = /CiA/bin/Debug/net5.0/cia.sqlite3
- - Link = https://youtu.be/hICMwXAhe-8
+ 
 ---
 
 ## ENTIDADES:
